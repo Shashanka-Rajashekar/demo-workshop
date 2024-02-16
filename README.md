@@ -1,2 +1,1 @@
-# demo-workshop
-This is a demo for workshop.<br>It was held in computer centre
+A complete website for food odering with both front-end and backend
